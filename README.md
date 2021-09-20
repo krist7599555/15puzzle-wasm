@@ -1,4 +1,9 @@
-# 15 puzzle solver
+# 15 puzzle solver [DEMO](https://krist7599555.github.io/15puzzle-wasm)
+
+## Control
+use arrow key to control
+
+## Technique
 - rust wasm 
 - svelte
 - A* ?
